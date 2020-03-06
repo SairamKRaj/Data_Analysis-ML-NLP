@@ -1,0 +1,3 @@
+In this interview question for Machine Learning Engineer Intern position at ZScaler - https://www.zscaler.com/ I extracted data from the company's internal website and developed a feature vector for any given string consisting of the hexadecimal and decimal values of bigram characters in it and performed word_count operation (counting number of bigrams thus obtained).
+
+Note: Due to confidential ressons, the link for the company's internal website cannot provided instead I have included a basic example link.
